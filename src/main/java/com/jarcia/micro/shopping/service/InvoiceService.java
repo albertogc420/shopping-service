@@ -1,6 +1,7 @@
-package academy.digitallab.store.shopping.service;
+package com.jarcia.micro.shopping.service;
 
-import academy.digitallab.store.shopping.entity.Invoice;
+
+import com.jarcia.micro.shopping.entity.Invoice;
 
 import java.util.List;
 

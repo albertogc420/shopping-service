@@ -1,6 +1,6 @@
-package academy.digitallab.store.shopping.repository;
+package com.jarcia.micro.shopping.repository;
 
-import academy.digitallab.store.shopping.entity.Invoice;
+import com.jarcia.micro.shopping.entity.Invoice;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

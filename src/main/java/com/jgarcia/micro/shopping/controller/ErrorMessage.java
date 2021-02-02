@@ -1,4 +1,4 @@
-package academy.digitallab.store.shopping.controller;
+package com.jgarcia.micro.shopping.controller;
 
 
 import lombok.Builder;

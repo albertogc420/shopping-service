@@ -1,8 +1,8 @@
-package academy.digitallab.store.shopping.service;
+package com.jarcia.micro.shopping.service;
 
-import academy.digitallab.store.shopping.repository.InvoiceItemsRepository;
-import academy.digitallab.store.shopping.repository.InvoiceRepository;
-import academy.digitallab.store.shopping.entity.Invoice;
+import com.jarcia.micro.shopping.entity.Invoice;
+import com.jarcia.micro.shopping.repository.InvoiceItemsRepository;
+import com.jarcia.micro.shopping.repository.InvoiceRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

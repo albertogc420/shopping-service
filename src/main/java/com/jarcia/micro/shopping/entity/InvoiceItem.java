@@ -1,4 +1,4 @@
-package academy.digitallab.store.shopping.entity;
+package com.jarcia.micro.shopping.entity;
 
 
 import lombok.Data;
